@@ -1,2 +1,2 @@
-#!/bin/bash 12-directory_permissions
-mkdir -m 751 dir_holberton 12-directory_permissions
+#!/bin/bash 13-change_group
+chgrp holberton hello 13-change_group
