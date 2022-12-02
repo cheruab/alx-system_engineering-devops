@@ -1,2 +1,2 @@
-#!/bin/bash 10-mirror_permissions
-chmod --reference=olleh hello 10-mirror_permissions
+#!/bin/bash 12-directory_permissions
+mkdir -m 751 dir_holberton 12-directory_permissions
