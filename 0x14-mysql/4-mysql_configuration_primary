@@ -16,4 +16,4 @@ server-id       = 1
 # MySQL's Binary Log File
 log_bin         = /var/log/mysql/mysql-bin.log
 # Database we want to replicate
-binlog_do_db    = tyrell_corp
+binlog_do_db    = tyrell_cor
